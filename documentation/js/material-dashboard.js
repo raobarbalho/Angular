@@ -21,7 +21,7 @@ var transparent = true;
 var transparentDemo = true;
 var fixedTop = false;
 
-var seq = 0, delays = 80, durations = 500;
+var seq = 0, delays = 80, durations = 600;
 var seq2 = 0, delays2 = 80, durations2 = 500;
 
 $(document).ready(function(){
